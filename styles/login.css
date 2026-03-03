@@ -1,0 +1,33 @@
+.form-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    gap: 1px; 
+}
+
+.form-grid label {
+    margin-top: 15px;
+    display: block;
+}
+
+
+
+.login-btn {
+    margin-top: 30px;
+    padding: 10px 40px;
+    background: rgb(102, 6, 64);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.login-btn:hover {
+    background: rgb(255, 0, 153);
+}
+
+/* Mobil: gör det till en kolumn */
+@media (max-width: 700px) {
+    .form-grid {
+        grid-template-columns: 1fr;
+    }
+}

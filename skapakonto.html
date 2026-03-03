@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/index.css">
+    <link rel="stylesheet" href="styles/skapa.css">
+
+    <title>Skapa konto</title>
+</head>
+
+
+
+<body>
+    <header>
+        <nav>
+            <ul class="div1">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="Kontakta.html">Contact</a></li>
+                <li><a href="loggin.html">Login</a></li>
+                <li><a href="skapakonto.html">Create Account</a></li>
+                <li><a href="läsmer.html">More</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+<h1 style="padding-left: 30px;">MovieMania </h1>
+
+
+<main> 
+    
+    <form action="https://postman-echo.com/get" method="get" class="form"> 
+        <fieldset> 
+            <legend>Create Account</legend> 
+        
+        <div class="form-grid"> 
+
+            <div class="left-col"> 
+        <label for="fname">First Name *</label> 
+        <input type="text" id="fname" name="fname" required placeholder="Your first name" style="font-style:oblique;"> 
+        
+        <label for="lname">Last Name *</label> 
+        <input type="text" id="lname" name="lname" required placeholder="Your last name " style="font-style:oblique;"> 
+        
+        <label for="mobile">Mobile Number</label> 
+        <input type="tel" id="mobile" name="mobile" placeholder="+46 7"> 
+        
+        <label for="birth">Birthdate</label> 
+        <input type="date" id="birth" name="birth" style="font-style:oblique;"> </div> 
+        
+            <div class="right-col"> 
+        <label for="email">Email *</label> 
+        <input type="email" id="email" name="email" required placeholder="Enter your email" style="font-style:oblique;" > 
+        
+        <label for="password">Password *</label> 
+        <input type="password" id="password" name="password" required placeholder="Create a password" style="font-style:oblique;"> 
+        
+        <label for="confirm">Confirm Password *</label> 
+        <input type="password" id="confirm" name="confirm" required placeholder="Repeat your password" style="font-style:oblique;"> <br><br>
+        
+        <label style="font-style:oblique;"> I agree to the Terms & Conditions <input type="checkbox" required> 
+        
+        </label> 
+    </div> 
+</div> 
+        <br>
+        <input type="submit" value="Create Account" class="login-btn"> 
+    
+    </fieldset> 
+</form> 
+</main>
+
+<b></b>
+<footer>
+    <p>© MovieMania 2026  </p>
+</footer>
+
+</body>
+</html>
