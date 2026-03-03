@@ -1,6 +1,6 @@
 # MovieMania
 
-MovieMania är en enkel webbplats öfr personer som tycker om anime, serier och underhållning.  
+MovieMania är en enkel webbplats för personer som tycker om anime, serier och underhållning.  
 Webbplatsen innehåller ett bildgalleri, navigationsmeny, formulär och flera sidor byggda med HTML och CSS.
 
 ## Målgrupp
@@ -34,10 +34,9 @@ Webbplatsen riktar sig till alla som gillar anime utan specifik åldersgrupp
 2. Öppna `index.html` i valfri webbläsare 
 3. Navigera mellan sidorna via menyn
 
-(https://github.com/Fatimakanbar/BE26-HTML-CSS.git)
+https://github.com/Fatimakanbar/BE26-HTML-CSS.git
 
 ## Kända brister / Att‑göra 
 - Side‑wrapper kan förbättras ytterligare för vissa skärmstorlekar
 - Fler anime‑kategorier kan läggas till
 
-# BE26-HTML-CSS
