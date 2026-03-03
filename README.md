@@ -8,6 +8,7 @@ Webbplatsen riktar sig till alla som gillar anime utan specifik åldersgrupp
 
 
 ### **HTML** 
+
 - Semantiska element används (header, nav, main, footer) 
 - Flera undersidor finns (Home, Contact, Login, Create Account, More) 
 - Bilder med alt‑texter 
@@ -33,7 +34,7 @@ Webbplatsen riktar sig till alla som gillar anime utan specifik åldersgrupp
 2. Öppna `index.html` i valfri webbläsare 
 3. Navigera mellan sidorna via menyn
 
-()
+(https://github.com/Fatimakanbar/BE26-HTML-CSS.git)
 
 ## Kända brister / Att‑göra 
 - Side‑wrapper kan förbättras ytterligare för vissa skärmstorlekar
