@@ -39,3 +39,4 @@ Webbplatsen riktar sig till alla som gillar anime utan specifik åldersgrupp
 - Side‑wrapper kan förbättras ytterligare för vissa skärmstorlekar
 - Fler anime‑kategorier kan läggas till
 
+# BE26-HTML-CSS
